@@ -1,0 +1,14 @@
+PerlString Known Issues
+----------------------------------------------------------------------
+
+01/27/2000
+
+Currently there are no known functional issues with PerlString. Please
+report any issues or bugs that you discover to matt@youell.com.
+
+
+
+
+
+--------------------------------------------------------------------------------
+Last updated 01/27/2000.

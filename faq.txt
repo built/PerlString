@@ -1,0 +1,37 @@
+Quick FAQ for PerlString
+--------------------------------------------------------------------------------
+
+Q. What is PerlString?
+A. PerlString is a C++ string class that was inspired by Perl.
+
+Q. Is PerlString part of Perl?
+A. No. It is not part of Perl or any Perl distribution package. No Perl source 
+code has been used in PerlString. In short, it has nothing to do with Perl, 
+other than it's devastating good looks.
+
+Q. Is PerlString "open source" software?
+A. Yes. Maybe. It really depends on what your definition of open source is. As
+far as the author is concerned, it is. Your mileage may vary.
+
+Q. What license is PerlString released under?
+A. PerlString is released under the Artistic License for right now.
+Licensing information is included in the PerlString source code.
+
+Q. How do I use PerlString?
+A. Visit the PerlString website at http://www.youell.com/matt/perlstring/ for 
+more information about how to use and abuse PerlString.
+
+Q. Has PerlString been tested?
+A. Barely. Testing is left as an exercise for the user. =) Seriously though, 
+it's rare that one person can catch all of the bugs in a decent sized piece of 
+software. Some bugs and "features" are bound to have crept into this release. 
+Also, realize that PerlString is currently at version 0.900, which means that 
+it's not quite ready for prime-time.
+
+Q. I want to contact the author. Where do I write?
+A. Email matt@youell.com. And be nice. =)
+
+
+
+--------------------------------------------------------------------------------
+Last updated 01/27/2000.

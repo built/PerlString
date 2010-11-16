@@ -1,0 +1,18 @@
+PerlString To-Do List
+--------------------------------------------------------------------------------
+
+The following items must be done before PerlString will be ready for 
+release:
+
+- Regular Expression support.
+- split()
+- crypt()
+- pack() / unpack()
+- Optimization, especially in the CPP version.
+- Wide character or Unicode support. This will probably only happen for the STL
+  version.
+
+
+
+--------------------------------------------------------------------------------
+Last updated 01/27/2000.
